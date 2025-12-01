@@ -2,6 +2,10 @@
 收集适用于 Android TV 的各种应用的apk安装文件。
 
 # 应用列表
+## 当贝市场 v6.0.3
+官网：[https://www.dangbei.com/](https://www.dangbei.com/)
+
+专为智能电视打造的应用市场
 ## QQ音乐 v9.0.0.39
 下载地址：[https://y.qq.com/download/download.html](https://y.qq.com/download/download.html)
 
